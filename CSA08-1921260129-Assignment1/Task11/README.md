@@ -1,0 +1,5 @@
+# Task 11 — Final recommendation
+
+Recommend `Decimal` constructed from input strings for quantities/rates/money, explicit validation, named rate constants, pure calculation functions, a shared module, and automated tests. Round each farmer's payable amount to ₹0.01 using a documented rule, then sum the rounded payments. Keep raw readings and records for audit. A rate revision should be made once in the rate card/module and covered by regression tests.
+
+Limitations: the assumed SNF limits and nearest-step rule must be approved by the co-operative; Decimal is slower than float; the simple script is not a database-backed multi-user system and does not provide authentication, backups, or transaction locking. At 150,000 records, an O(n) pass is practical, but persistent storage, batch processing, logging, auditability, and operational controls become important. A JSON rate file could be loaded at startup in O(t) time and O(t) space for t rate values; this makes seasonal updates easier without editing code but requires schema validation and controlled file distribution.
