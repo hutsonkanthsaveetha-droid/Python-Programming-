@@ -1,0 +1,19 @@
+$ python benchmark.py
+
+Payments: 300
+float   total=10019.999999999944 elapsed=0.000019s
+Decimal total=10020.00 elapsed=0.000059s
+sys.getsizeof(float 0.0): 24
+sys.getsizeof(Decimal('0.00')): 120
+
+Payments: 6,000
+float   total=200399.99999997852 elapsed=0.000326s
+Decimal total=200400.00 elapsed=0.000926s
+sys.getsizeof(float 0.0): 24
+sys.getsizeof(Decimal('0.00')): 120
+
+Payments: 150,000
+float   total=5010000.000000843 elapsed=0.008274s
+Decimal total=5010000.00 elapsed=0.023397s
+sys.getsizeof(float 0.0): 24
+sys.getsizeof(Decimal('0.00')): 120

@@ -1,0 +1,5 @@
+$ python -m Task12.seasonal_demo
+April-June   fat=3.50 snf=8.50 ten_day=600 rate=32.00 bonus=0.50/L payment=3250.00
+July-March   fat=3.50 snf=8.50 ten_day=600 rate=30.00 bonus=0.50/L payment=3050.00
+April-June   fat=4.23 snf=8.67 ten_day=501 rate=35.75 bonus=0.50/L payment=3625.00
+April-June   fat=4.23 snf=8.67 ten_day=500 rate=35.75 bonus=0.00/L payment=3575.00

@@ -1,0 +1,3 @@
+# Task 5 — Input and conversion
+
+`input()` always returns a string. Convert integer-like IDs with `str` (keep IDs as text to preserve leading zeros) and numeric readings with `Decimal(text)` or `float(text)` inside `try/except ValueError`. `"eight"` fails numeric conversion. `"8,5"` also fails under standard English numeric parsing; ask the clerk to use `8.5`. `" 8.5 "` succeeds after trimming or because numeric conversion accepts surrounding whitespace. String pre-checks such as `isdigit()` are inadequate for decimals, signs and exponent notation; `try/except ValueError` is generally clearer and reliable. Conversion/validation is O(1) per entry for ordinary short input. Format values with f-strings such as `f"{amount:8.2f}"`.
