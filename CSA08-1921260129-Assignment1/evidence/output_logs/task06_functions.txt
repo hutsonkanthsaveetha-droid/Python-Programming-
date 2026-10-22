@@ -1,4 +1,0 @@
-$ python -m Task06.functions_demo
-    F001       10 L  rate Rs  30.00  amount Rs   300.00
-    F002      8.5 L  rate Rs  33.40  amount Rs   283.90
-Total: 583.90

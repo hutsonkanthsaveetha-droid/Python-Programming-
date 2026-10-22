@@ -1,6 +1,0 @@
-$ python Task02/decimal_demo.py
-float  : 33400.30000000061
-Decimal: 33400.30
-paise  : 3340030 paise = Rs 33400.3
-False True
-Decimal(float('0.1')): 0.1000000000000000055511151231257827021181583404541015625

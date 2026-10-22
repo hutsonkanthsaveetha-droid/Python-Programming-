@@ -1,8 +1,0 @@
-$ python -m Task03.constants_demo
-Base rate: Rs 30.00
-Reference fat: 3.5%
-Reference SNF: 8.5%
-Fat step value: Rs 0.40
-SNF step value: Rs 0.30
-Before reassignment: int str
-After swap: 10 litres 10

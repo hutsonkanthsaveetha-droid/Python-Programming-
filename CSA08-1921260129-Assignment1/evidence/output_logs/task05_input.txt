@@ -1,4 +1,0 @@
-$ python Task05/input_demo.py
-Litres: 8.5
-Fat %: 4.2
-Litres:     8.50  Fat:  4.20%
