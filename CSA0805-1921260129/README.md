@@ -36,16 +36,8 @@ python -m Task12.seasonal_demo
 
 If `python` is not recognised, try `py` in its place. All programs use the Python standard library; no third-party packages are needed.
 
-## Submission checklist
 
-1. Read and understand each task and be ready to explain the calculations and validation rules.
-2. Confirm the valid SNF range, rounding policy, seasonal rates and bonus rule with the co-operative/lecturer; the report identifies assumptions where the assignment details are incomplete.
-3. Review the benchmark table; timings depend on the machine and must be described as measurements from the environment that produced them.
-4. Create a GitHub repository called `CSA08-1921260129-Assignment1`, upload these files and make meaningful progressive commits as requested by the instructor.
-5. Add the real GitHub URL to the report cover page. No URL is filled in here because a repository has not been created or authenticated from this environment.
-6. Follow the course's rules on permitted AI assistance and required acknowledgements.
-
-## Design assumptions to verify
+# To verify
 
 - SNF values are currently accepted from 6.0% to 10.0%.
 - Fat and SNF readings are converted to nearest 0.1 percentage-point steps using `ROUND_HALF_UP`.
