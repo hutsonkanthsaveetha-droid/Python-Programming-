@@ -33,9 +33,4 @@ python -m unittest discover -s tests -v
 - `data/` contains the raw Q4 timings, Q6 function-call counts/timings and Q7 comparison results.
 - Each Task folder contains its source, notes, output text and output image.
 
-The recorded timings are from the Python 3.13.5 environment used to build this package. Execution times vary by machine. Re-run the programs on the submission computer and replace the timing rows/screenshots with your own measured evidence if your instructor requires local execution evidence.
-
-## GitHub checklist
-Create a repository named `CSA08-1921260129-Assignment2`, upload the project files, and share the repository with the faculty. The ZIP includes local progressive commits: a setup commit, one for each task Q1-Q7, and a final report/evidence commit. See `GITHUB_SETUP.md` for pushing this history to GitHub. Add the real repository URL to the report cover page and submit it in the assignment sheet.
-
-**GitHub repository URL:** To be filled after the repository is created.
+The recorded timings are from the Python 3.13.5 environment used to build this package. Execution times vary by machine.
