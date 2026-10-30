@@ -1,0 +1,10 @@
+Household | Units | Ration | Age >80 | separate-if | if-elif-else
+H1        |    50 | False  | False   | Full subsidy              | Full subsidy
+H2        |   100 | True   | False   | Full subsidy              | Full subsidy
+H3        |   101 | False  | False   | No subsidy                | No subsidy
+H4        |   101 | True   | False   | Partial subsidy           | Partial subsidy
+H5        |   200 | True   | False   | Partial subsidy           | Partial subsidy
+H6        |   200 | False  | True    | No subsidy                | No subsidy
+H7        |   201 | False  | False   | No subsidy                | No subsidy
+H8        |   201 | False  | True    | Senior exception subsidy  | Senior exception subsidy
+Overlap example (80 units + ration card): ['Full subsidy', 'Partial subsidy']

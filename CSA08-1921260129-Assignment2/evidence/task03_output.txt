@@ -1,0 +1,8 @@
+tn 09 ab 1234     -> TN09AB1234  valid | receipt: TN 09 AB 1234
+KA-01-M-0007      -> KA01M0007   valid | receipt: KA 01 M 0007
+Tn09Ab1234        -> TN09AB1234  valid | receipt: TN 09 AB 1234
+TN9AB1234         -> TN9AB1234   INVALID
+TN 22 1234 AB     -> TN221234AB  INVALID
+MH-12-XY-9876     -> MH12XY9876  valid | receipt: MH 12 XY 9876
+9-char s[-4:] and s[4:-4]: 1234 A
+10-char s[-4:] and s[4:-4]: 1234 AB

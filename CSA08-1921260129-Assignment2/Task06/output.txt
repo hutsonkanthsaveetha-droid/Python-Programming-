@@ -1,0 +1,10 @@
+Hand check: [(1, 1), (2, 2), (3, 3), (4, 5), (5, 8), (6, 13)]
+n,naive_answer,naive_calls,memo_answer,memo_calls
+10,89,177,89,11
+20,10946,21891,10946,21
+25,121393,242785,121393,26
+30,1346269,2692537,1346269,31
+recursion limit: 1000
+naive(1000): RecursionError: RecursionError
+memo(1000): RecursionError: RecursionError
+iterative(1000): digits = 209 last 12 digits = 245323403501

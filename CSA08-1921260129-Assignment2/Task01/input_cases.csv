@@ -1,0 +1,9 @@
+household,units,ration_card,member_over_80
+H1,50,false,false
+H2,100,true,false
+H3,101,false,false
+H4,101,true,false
+H5,200,true,false
+H6,200,false,true
+H7,201,false,false
+H8,201,false,true

@@ -1,0 +1,13 @@
+['Tea', 'Vada'] ['Tea', 'Vada']
+['Tea'] ['Vada']
+buggy defaults: (['Tea', 'Vada'],)
+three independent customers: [['Tea'], ['Coffee'], ['Vada']]
+explicit list: ['Idli']
+closure order: ['Tea'] ['Tea', 'Vada']
+positional: (105.0, 5.0)
+keyword: (210.0, 10.0)
+default: (52.5, 2.5)
+local: local
+global: 1
+nonlocal: 1 2
+total=525.00, GST=25.00

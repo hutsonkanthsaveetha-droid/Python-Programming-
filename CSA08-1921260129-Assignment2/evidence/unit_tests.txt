@@ -1,0 +1,23 @@
+test_climb_answers (test_assignment2.Assignment2Tests.test_climb_answers) ... ok
+test_closure_order_is_private (test_assignment2.Assignment2Tests.test_closure_order_is_private) ... ok
+test_if_and_elif_agree (test_assignment2.Assignment2Tests.test_if_and_elif_agree) ... ok
+test_independent_orders (test_assignment2.Assignment2Tests.test_independent_orders) ... ok
+test_match_case (test_assignment2.Assignment2Tests.test_match_case) ... ok
+test_otp_blank_does_not_consume_attempt (test_assignment2.Assignment2Tests.test_otp_blank_does_not_consume_attempt) ... ok
+test_overlapping_if_example (test_assignment2.Assignment2Tests.test_overlapping_if_example) ... ok
+test_recursive_otp_alternative (test_assignment2.Assignment2Tests.test_recursive_otp_alternative) ... ok
+test_string_builders (test_assignment2.Assignment2Tests.test_string_builders) ... ok
+test_subsidy_boundaries (test_assignment2.Assignment2Tests.test_subsidy_boundaries) ... ok
+test_vehicle_normalise (test_assignment2.Assignment2Tests.test_vehicle_normalise) ... ok
+test_vehicle_receipt (test_assignment2.Assignment2Tests.test_vehicle_receipt) ... ok
+test_vehicle_valid (test_assignment2.Assignment2Tests.test_vehicle_valid) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.000s
+
+OK
+Verified after 2 counted attempt(s).
+Verified after 2 counted attempt(s).
+Account locked for 30 minutes.
+Verified after 2 counted attempt(s).
+Account locked for 30 minutes.

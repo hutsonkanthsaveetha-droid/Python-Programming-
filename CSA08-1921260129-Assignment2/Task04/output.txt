@@ -1,0 +1,5 @@
+size,same_text,plus_avg_s,join_avg_s,fstring_avg_s
+1000,True,0.000108,0.000039,0.000096
+10000,True,0.000717,0.000172,0.000630
+200000,True,0.015075,0.003421,0.016643
+sample: Call:10;SMS:2;Data:5;

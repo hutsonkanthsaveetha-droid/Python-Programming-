@@ -1,0 +1,6 @@
+Original Q6 naive recursion vs redesigned iterative DP
+n,answer,naive_calls,naive_time_s,iterative_steps,iterative_avg_s
+20,10946,21891,0.001396,19,0.00000121
+25,121393,242785,0.016094,24,0.00000102
+30,1346269,2692537,0.184540,29,0.00000141
+n=1000 iterative result digits: 209 avg_s: 0.00003560

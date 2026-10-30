@@ -1,0 +1,17 @@
+W(5)
+├─ W(4)
+│  ├─ W(3)
+│  │  ├─ W(2)
+│  │  │  ├─ W(1)
+│  │  │  └─ W(0)
+│  │  └─ W(1)
+│  └─ W(2) [repeated subproblem]
+│     ├─ W(1)
+│     └─ W(0)
+└─ W(3) [repeated subproblem]
+   ├─ W(2) [repeated subproblem]
+   │  ├─ W(1)
+   │  └─ W(0)
+   └─ W(1)
+
+W(5) = W(4) + W(3) = 8 + 5 = 13

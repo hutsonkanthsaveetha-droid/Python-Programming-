@@ -1,0 +1,9 @@
+WHILE LOOP - success
+Verified after 2 counted attempt(s).
+WHILE LOOP - lock
+Account locked for 30 minutes.
+FOR LOOP - lock, blank does not count
+Account locked for 30 minutes.
+EXTRA ATTEMPTS
+Verified after 4 counted attempt(s).
+continue skips blank entries; break exits on success; pass is a no-op failure hook.
