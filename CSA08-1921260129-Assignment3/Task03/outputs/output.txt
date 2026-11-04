@@ -1,0 +1,7 @@
+required example: [('seeds', 3), ('price', 2), ('received', 2)]
+district groups: {'Coimbatore': ['Seeds not received.', 'Irrigation water delayed.'], 'Erode': ['Fertiliser price high!'], 'Salem': ['Subsidy not received']}
+complaints per district: {'Coimbatore': 2, 'Erode': 1, 'Salem': 1}
+crop groups: {'paddy': ['Seeds not received.', 'Irrigation water delayed.'], 'banana': ['Fertiliser price high!'], 'millet': ['Subsidy not received']}
+empty text: {}
+case/punctuation: {'seeds': 3}
+get equals setdefault: True

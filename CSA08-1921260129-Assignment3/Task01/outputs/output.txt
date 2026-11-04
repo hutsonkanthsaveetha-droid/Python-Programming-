@@ -1,0 +1,10 @@
+Days: 365 | weekly groups: 53 (last group may be partial)
+First 5 weekly totals: [156.1, 165.7, 115.1, 135.6, 133.0]
+Wettest comparable week: 33, total=205.5 mm
+Driest comparable week: 11, total=63.5 mm
+Partial final group: 29.0 mm over 1 day(s)
+7-day moving averages: 359 | first 5: [22.3, 19.66, 24.3, 20.54, 20.36]
+Dry days: 49 | first 15 day numbers: [6, 20, 46, 53, 58, 62, 69, 74, 76, 85, 88, 93, 107, 112, 114]
+Slices: readings[7:14]= [23.5, 35.3, 12.8, 27.7, 35.8, 0.3, 30.3]
+readings[-7:]= [41.8, 0.8, 15.5, 35.9, 22.1, 15.5, 29.0]
+readings[::7]= [42.0, 23.5, 9.1, 18.2, 40.7, 23.6, 6.2, 1.0] ...

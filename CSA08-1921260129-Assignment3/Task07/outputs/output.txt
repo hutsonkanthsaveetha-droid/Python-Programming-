@@ -1,0 +1,7 @@
+merged contact groups: 5
+names= ['Dr. Ravi', 'ravi kumar'] | phones= ['4422223333', '9840012345'] | emails= ['ravi@example.com']
+names= ['Meena', 'Meena S'] | phones= ['9000011111'] | emails= ['meena@example.com']
+names= ['ARUN', 'Arun'] | phones= ['9840013333'] | emails= ['arun@example.com']
+names= ['Ravi Office'] | phones= [] | emails= ['office@example.com']
+names= ['No number contact'] | phones= [] | emails= []
+same name / different phones remain separate: True

@@ -1,0 +1,13 @@
+Tuesday arrivals/departures at Katpadi:
+12601 Chennai Mail         depart=08:12
+12605 Hill City Express    depart=22:22
+index result same: True
+unknown station: []
+train not running that day at Trichy on Monday: []
+third station departure for 12601: 09:40
+full timetable:
+12601 Chennai Mail | Chennai 06:00-06:15, Katpadi 08:10-08:12, Jolarpettai 09:35-09:40, Bengaluru 12:00-12:10 | Fri,Mon,Sat,Sun,Thu,Tue,Wed
+12602 Bengaluru Express | Chennai 07:00-07:10, Arakkonam 08:00-08:02, Katpadi 09:10-09:12, Bengaluru 11:30-11:40 | Fri,Mon,Sun,Wed
+12603 Kaveri Express | Chennai 05:30-05:45, Villupuram 07:25-07:27, Trichy 10:10-10:15, Madurai 12:30-12:35 | Sat,Thu,Tue
+12604 Coastal Link | Chennai 09:00-09:05, Tambaram 09:35-09:37, Chengalpattu 10:15-10:17, Villupuram 12:00-12:05 | Fri,Mon,Sat,Sun,Thu,Tue,Wed
+12605 Hill City Express | Chennai 20:00-20:15, Katpadi 22:20-22:22, Salem 02:30-02:35, Coimbatore 05:30-05:40 | Fri,Mon,Sat,Sun,Thu,Tue,Wed

@@ -1,0 +1,5 @@
+train,station,arrival,departure,days
+12601,Chennai,06:00,06:15,Mon Tue Wed Thu Fri Sat Sun
+12601,Katpadi,08:10,08:12,Mon Tue Wed Thu Fri Sat Sun
+12601,Jolarpettai,09:35,09:40,Mon Tue Wed Thu Fri Sat Sun
+12602,Katpadi,09:10,09:12,Mon Wed Fri Sun

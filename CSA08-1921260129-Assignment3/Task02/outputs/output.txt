@@ -1,0 +1,18 @@
+bad : [[0, 7, 0, 0], [0, 7, 0, 0], [0, 7, 0, 0]]
+good: [[0, 7, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+row identity: True False
+row ids bad : [140381346210752, 140381346210752, 140381346210752]
+row ids good: [140381064516416, 140381064520128, 140381064520256]
+tuple key: T. Nagar
+list key error: TypeError
+alias is original: True
+shallow sees nested change: 9
+slice sees nested change: 9
+deep copy unchanged: [[1, 2], [3, 4]]
+function changed caller list: [99, 2, 3]
+mutable item inside tuple: ([1, 2, 3], 'stop')
+Chennai Central: 13.0827, 80.2707
+T. Nagar: 13.0418, 80.2341
+container sizes for 1,000,000 references:
+list bytes: 8000056 | tuple bytes: 8000040
+Note: sys.getsizeof reports shallow container size, not referenced objects.

@@ -1,0 +1,3 @@
+input_contacts,measured_or_estimated_seconds,status
+1000,0.02046411499986789,measured
+100000,204.8439475347136,estimated from quadratic scaling; not run
