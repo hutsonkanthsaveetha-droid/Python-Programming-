@@ -1,0 +1,3 @@
+register_number,name,department,email,events
+1921260135,Kavi MECH,MECH,kavi@example.com,Drama
+1921260136,Invalid Line,MECH,invalid@example.com

@@ -1,0 +1,9 @@
+MESS BILL REPORT
+192311001  Asha  Rs.1250.50
+192311002  Ravi  Rs.980.00
+192311003  Meena  Rs.1125.75
+192311006  Divya  Rs.725.00
+Total: Rs.4081.25
+Rejected records: 2
+Line 4: [<class 'decimal.ConversionSyntax'>] | 192311004,Arun,not-a-number
+Line 5: expected 3 fields, found 4 | 192311005,Kavi,600.25,extra

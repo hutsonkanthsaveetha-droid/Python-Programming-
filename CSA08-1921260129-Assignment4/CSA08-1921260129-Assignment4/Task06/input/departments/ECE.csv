@@ -1,0 +1,4 @@
+register_number,name,department,email,events
+1921260129,J. Hutson,CSE,j.hutson@example.com,Drama;Photography
+1921260131,Ravi ECE,ECE,ravi.example.com,Music
+1921260132,Meena ECE,ECE,meena@example.com,Debate;Quiz

@@ -1,0 +1,4 @@
+streaming: total=62525000.00; runs=0.024790s, 0.026315s, 0.023903s
+streaming: average=0.025003s
+whole: total=62525000.00; runs=0.026150s, 0.020897s, 0.025142s
+whole: average=0.024063s
