@@ -1,0 +1,12 @@
+test_attendance_month_reports (test_assignment4.Assignment4Tests.test_attendance_month_reports) ... ok
+test_fest_merge_and_missing_file (test_assignment4.Assignment4Tests.test_fest_merge_and_missing_file) ... ok
+test_mess_decimal_total_and_rejects (test_assignment4.Assignment4Tests.test_mess_decimal_total_and_rejects) ... ok
+test_parse_line_valid_and_invalid (test_assignment4.Assignment4Tests.test_parse_line_valid_and_invalid) ... ok
+test_returns_append (test_assignment4.Assignment4Tests.test_returns_append) ... ok
+test_summarise_expected_tuple (test_assignment4.Assignment4Tests.test_summarise_expected_tuple) ... ok
+test_summarise_missing_raises_wrapped (test_assignment4.Assignment4Tests.test_summarise_missing_raises_wrapped) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.004s
+
+OK

@@ -1,0 +1,1 @@
+2026-11-05T14:57:34 | /mnt/data/CSA08-1921260129-Assignment4/Task04/input/missing_day.txt | FileNotFoundError: [Errno 2] No such file or directory: '/mnt/data/CSA08-1921260129-Assignment4/Task04/input/missing_day.txt'

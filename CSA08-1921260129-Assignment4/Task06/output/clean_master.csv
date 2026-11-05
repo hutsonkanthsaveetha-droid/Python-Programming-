@@ -1,0 +1,7 @@
+register_number,name,department,emails,events
+1921260129,J Hutson Kanth,CSE,hutson@example.com;j.hutson@example.com,Drama;Music;Photography
+1921260130,Asha Kumar,CSE,asha@example.com,Quiz
+1921260132,Meena ECE,ECE,meena@example.com,Debate;Quiz
+1921260133,Arun EEE,EEE,arun@example.com,Music
+1921260134,Divya EEE,EEE,divya@example.com,Photography
+1921260135,Kavi MECH,MECH,kavi@example.com,Drama

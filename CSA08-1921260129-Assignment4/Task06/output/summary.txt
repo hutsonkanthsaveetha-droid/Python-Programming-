@@ -1,0 +1,6 @@
+Expected department files: 5
+Valid registration lines: 7
+Duplicate lines merged: 1
+Unique contacts: 6
+Rejected or unavailable records: 3
+Events: Debate, Drama, Music, Photography, Quiz
