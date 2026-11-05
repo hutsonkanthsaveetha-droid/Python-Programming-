@@ -1,0 +1,18 @@
+         10076 function calls in 0.004 seconds
+
+   Ordered by: cumulative time
+   List reduced from 51 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.002    0.002    0.004    0.004 /mnt/data/CSA08-1921260129-Assignment5/TaskA4/debugging_profile.py:10(clean_values)
+        1    0.001    0.001    0.002    0.002 {built-in method builtins.all}
+    10001    0.001    0.000    0.001    0.000 /mnt/data/CSA08-1921260129-Assignment5/TaskA4/debugging_profile.py:12(<genexpr>)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python3.13/logging/__init__.py:2188(info)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python3.13/logging/__init__.py:1510(info)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python3.13/logging/__init__.py:1641(_log)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python3.13/logging/__init__.py:1667(handle)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python3.13/logging/__init__.py:1592(findCaller)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python3.13/logging/__init__.py:1626(makeRecord)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python3.13/logging/__init__.py:298(__init__)
+
+

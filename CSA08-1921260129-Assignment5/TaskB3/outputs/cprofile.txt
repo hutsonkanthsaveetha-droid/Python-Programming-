@@ -1,0 +1,23 @@
+         631329 function calls in 0.570 seconds
+
+   Ordered by: cumulative time
+   List reduced from 17 to 15 due to restriction <15>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.157    0.157    0.570    0.570 /mnt/data/CSA08-1921260129-Assignment5/TaskB3/benchmark.py:33(python_group)
+   105121    0.251    0.000    0.413    0.000 /usr/lib/python3.13/csv.py:174(__next__)
+   105122    0.084    0.000    0.087    0.000 {built-in method builtins.next}
+   210241    0.042    0.000    0.042    0.000 /usr/lib/python3.13/csv.py:160(fieldnames)
+   210240    0.033    0.000    0.033    0.000 {built-in method builtins.len}
+      297    0.002    0.000    0.003    0.000 <frozen codecs>:322(decode)
+      297    0.001    0.000    0.001    0.000 {built-in method _codecs.utf_8_decode}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method _io.open}
+        1    0.000    0.000    0.000    0.000 {method '__exit__' of '_io._IOBase' objects}
+        1    0.000    0.000    0.000    0.000 /usr/lib/python3.13/csv.py:146(__init__)
+        1    0.000    0.000    0.000    0.000 <frozen codecs>:312(__init__)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python3.13/pathlib/_local.py:166(__fspath__)
+        1    0.000    0.000    0.000    0.000 {built-in method _csv.reader}
+        1    0.000    0.000    0.000    0.000 /usr/lib/python3.13/pathlib/_local.py:227(__str__)
+
+

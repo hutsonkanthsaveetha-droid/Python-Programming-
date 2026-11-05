@@ -1,0 +1,52 @@
+id,complaint,reference_label
+C001,Roads near the station are clean and the air feels better.,positive
+C002,The new monitoring display is helpful and clear.,positive
+C003,Traffic is slow but the public bus is fast.,positive
+C004,The air quality improved after the road work ended.,positive
+C005,The response team was helpful and polite.,positive
+C006,The park area is clean and safe today.,positive
+C007,The new green corridor is excellent.,positive
+C008,The smell has reduced and the air is fresh.,positive
+C009,The service is better than last month.,positive
+C010,The pollution alert was useful and timely.,positive
+C011,Our street is cleaner after the inspection.,positive
+C012,The filter upgrade improved the readings.,positive
+C013,The officers were helpful with my complaint.,positive
+C014,The air near the school is healthy this morning.,positive
+C015,The bus lane makes travel faster.,positive
+C016,Good work; the area is much cleaner.,positive
+C017,The sensor is working well and gives good updates.,positive
+C018,There is less smoke near the factory today.,positive
+C019,The factory smoke is making the air bad.,negative
+C020,The roads are dirty and the traffic is slow.,negative
+C021,The air is unhealthy and smells harmful.,negative
+C022,The complaint desk was rude and unhelpful.,negative
+C023,The monitor is broken and the readings are missing.,negative
+C024,The smoke is getting worse every evening.,negative
+C025,The bus stop is dirty and unsafe.,negative
+C026,The response was poor and very slow.,negative
+C027,There is bad air around the hospital.,negative
+C028,The new road work created more dust and smoke.,negative
+C029,The air is not clean near our homes.,negative
+C030,The sensor keeps failing and gives bad values.,negative
+C031,The smell is harmful and makes people cough.,negative
+C032,The area is worse after the factory started operating.,negative
+C033,The alert system is broken and slow.,negative
+C034,The dust is dirty and the road is unsafe.,negative
+C035,The staff were not helpful when I called.,negative
+C036,The pollution level is high and the response is poor.,negative
+C037,Please inspect the reading from station 4.,neutral
+C038,What time is the monitoring report updated?,neutral
+C039,I live near the Adyar station.,neutral
+C040,The reading was recorded at 8 AM.,neutral
+C041,Please send the monthly report by email.,neutral
+C042,The complaint number is 1042.,neutral
+C043,A truck passed the monitoring station.,neutral
+C044,The sensor was checked on Monday.,neutral
+C045,Can you explain the PM2.5 value?,neutral
+C046,The station is located beside the market.,neutral
+C047,We submitted a complaint yesterday.,neutral
+C048,The report includes temperature and humidity.,neutral
+C049,The reading changed from morning to evening.,neutral
+C050,Please confirm the date of the inspection.,neutral
+C051,I have attached a photograph of the road.,neutral

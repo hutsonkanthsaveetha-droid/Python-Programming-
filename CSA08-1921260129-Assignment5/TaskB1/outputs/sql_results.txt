@@ -1,0 +1,15 @@
+Adyar October mean PM2.5: 36.50
+Station averages (descending):
+Sholinganallur: 60.7
+Chromepet: 58.34
+Porur: 56.27
+Ambattur: 53.92
+Mylapore: 51.54
+Perungudi: 49.76
+Tambaram: 47.79
+Anna Nagar: 45.78
+Velachery: 42.96
+T Nagar: 40.87
+Guindy: 38.53
+Adyar: 36.5
+Worst hours: [(9, 55.43), (8, 55.05), (7, 54.96), (10, 54.76), (19, 52.55)]

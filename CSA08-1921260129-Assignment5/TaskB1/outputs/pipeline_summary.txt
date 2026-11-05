@@ -1,0 +1,6 @@
+Raw parsed rows: 8639
+Cleaned rows: 8639
+Rejected rows: 2
+Imputed numeric cells: 6
+Stations: 12
+Adyar mean PM2.5: 36.50

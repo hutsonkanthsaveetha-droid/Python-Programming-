@@ -1,0 +1,3 @@
+file,line,reason
+station_01.csv,722,duplicate station/date/hour
+station_03.csv,22,time data '2026/10/01' does not match format '%Y-%m-%d'

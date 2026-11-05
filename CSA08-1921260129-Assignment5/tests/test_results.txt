@@ -1,0 +1,20 @@
+test_adversarial_empty_file (test_assignment5.Assignment5Tests.test_adversarial_empty_file) ... ok
+test_adversarial_semicolon_delimiter (test_assignment5.Assignment5Tests.test_adversarial_semicolon_delimiter) ... ok
+test_b2_complete_code_expected_output (test_assignment5.Assignment5Tests.test_b2_complete_code_expected_output) ... ok
+test_b4_complete_code_expected_labels (test_assignment5.Assignment5Tests.test_b4_complete_code_expected_labels) ... ok
+test_chatbot_db (test_assignment5.Assignment5Tests.test_chatbot_db) ... ok
+test_complete_code_expected_rows (test_assignment5.Assignment5Tests.test_complete_code_expected_rows) ... ok
+test_min_max_constant_and_empty (test_assignment5.Assignment5Tests.test_min_max_constant_and_empty) ... ok
+test_min_max_expected (test_assignment5.Assignment5Tests.test_min_max_expected) ... ok
+test_negation_flips_sentiment (test_assignment5.Assignment5Tests.test_negation_flips_sentiment) ... ok
+test_parameterized_sql_is_safe (test_assignment5.Assignment5Tests.test_parameterized_sql_is_safe) ... ok
+test_raw_dataset_and_cleaning (test_assignment5.Assignment5Tests.test_raw_dataset_and_cleaning) ... ok
+test_sentiment_basic (test_assignment5.Assignment5Tests.test_sentiment_basic) ... ok
+test_summarizer_returns_sentence (test_assignment5.Assignment5Tests.test_summarizer_returns_sentence) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 3.125s
+
+OK
+[('Adyar', '2026-10-01', 48.0), ('Guindy', '2026-10-01', 95.0), ('Guindy', '2026-10-03', 121.0)]
+[0.0, 0.644, 1.0]

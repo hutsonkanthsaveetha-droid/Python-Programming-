@@ -1,0 +1,18 @@
+Before cleaning (raw source examples):
+station,date,hour,pm25,pm10,no2,temperature,temp_unit
+Adyar,2026-10-01,0,28.23,44.14,18.63,23.62,C
+Adyar,2026-10-01,1,29.78,57.24,40.23,22.93,C
+Adyar,2026-10-01,2,24.75,38.77,16.65,25.03,C
+Adyar,2026-10-01,3,18.42,30.57,31.75,25.22,C
+Adyar,2026-10-01,4,21.53,40.35,37.33,22.53,C
+Adyar,2026-10-01,5,NA,59.74,20.91,23.28,C
+Adyar,2026-10-01,6,33.32,57.81,12.25,22.98,C
+
+After cleaning (first 7 records):
+{'station': 'Adyar', 'date': '2026-10-01', 'hour': 0, 'pm25': 28.23, 'pm10': 44.14, 'no2': 18.63, 'temperature': 23.62}
+{'station': 'Adyar', 'date': '2026-10-01', 'hour': 1, 'pm25': 29.78, 'pm10': 57.24, 'no2': 40.23, 'temperature': 22.93}
+{'station': 'Adyar', 'date': '2026-10-01', 'hour': 2, 'pm25': 24.75, 'pm10': 38.77, 'no2': 16.65, 'temperature': 25.03}
+{'station': 'Adyar', 'date': '2026-10-01', 'hour': 3, 'pm25': 18.42, 'pm10': 30.57, 'no2': 31.75, 'temperature': 25.22}
+{'station': 'Adyar', 'date': '2026-10-01', 'hour': 4, 'pm25': 21.53, 'pm10': 40.35, 'no2': 37.33, 'temperature': 22.53}
+{'station': 'Adyar', 'date': '2026-10-01', 'hour': 5, 'pm25': 36.650000000000006, 'pm10': 59.74, 'no2': 20.91, 'temperature': 23.28}
+{'station': 'Adyar', 'date': '2026-10-01', 'hour': 6, 'pm25': 33.32, 'pm10': 57.81, 'no2': 12.25, 'temperature': 22.98}

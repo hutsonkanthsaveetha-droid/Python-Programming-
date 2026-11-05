@@ -1,0 +1,4 @@
+Important-term coverage (top 15 terms):
+Frequency summary: 9/15 (60.0%)
+First-five baseline: 13/15 (86.7%)
+Frequency summary selection scans/scorers words (O(W)); taking a fixed first k sentences is O(1) with respect to corpus length after the first k records are available.

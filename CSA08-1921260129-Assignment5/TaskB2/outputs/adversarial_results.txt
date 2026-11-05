@@ -1,0 +1,10 @@
+empty.csv: EMPTY: no records
+latin1.csv: READABLE: rows=1 | encoding=latin-1 fallback delimiter=','
+missing_column.csv: INVALID HEADER: missing ['pm25'] | encoding=utf-8 delimiter=','
+wrong_delimiter.csv: READABLE: rows=1 | encoding=utf-8 delimiter=';'
+Unsafe concatenated query rows: [('Adyar', 48.0), ('Guindy', 95.0), ('Velachery', 58.0)]
+Safe parameterised query rows: []
+Sentiment=neutral  | Great, another day of toxic air.
+Sentiment=neutral  | Not bad, not good either.
+Sentiment=neutral  | The service is good but the air is dirty.
+Sentiment=neutral  | I do not dislike the improvement.

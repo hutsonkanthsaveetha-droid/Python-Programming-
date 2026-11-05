@@ -1,0 +1,52 @@
+id,reference_label,predicted_label,agreed,complaint
+C001,positive,positive,1,Roads near the station are clean and the air feels better.
+C002,positive,positive,1,The new monitoring display is helpful and clear.
+C003,positive,neutral,0,Traffic is slow but the public bus is fast.
+C004,positive,positive,1,The air quality improved after the road work ended.
+C005,positive,positive,1,The response team was helpful and polite.
+C006,positive,positive,1,The park area is clean and safe today.
+C007,positive,positive,1,The new green corridor is excellent.
+C008,positive,positive,1,The smell has reduced and the air is fresh.
+C009,positive,positive,1,The service is better than last month.
+C010,positive,neutral,0,The pollution alert was useful and timely.
+C011,positive,neutral,0,Our street is cleaner after the inspection.
+C012,positive,positive,1,The filter upgrade improved the readings.
+C013,positive,positive,1,The officers were helpful with my complaint.
+C014,positive,positive,1,The air near the school is healthy this morning.
+C015,positive,neutral,0,The bus lane makes travel faster.
+C016,positive,positive,1,Good work; the area is much cleaner.
+C017,positive,positive,1,The sensor is working well and gives good updates.
+C018,positive,negative,0,There is less smoke near the factory today.
+C019,negative,negative,1,The factory smoke is making the air bad.
+C020,negative,negative,1,The roads are dirty and the traffic is slow.
+C021,negative,negative,1,The air is unhealthy and smells harmful.
+C022,negative,negative,1,The complaint desk was rude and unhelpful.
+C023,negative,negative,1,The monitor is broken and the readings are missing.
+C024,negative,negative,1,The smoke is getting worse every evening.
+C025,negative,negative,1,The bus stop is dirty and unsafe.
+C026,negative,negative,1,The response was poor and very slow.
+C027,negative,negative,1,There is bad air around the hospital.
+C028,negative,negative,1,The new road work created more dust and smoke.
+C029,negative,negative,1,The air is not clean near our homes.
+C030,negative,negative,1,The sensor keeps failing and gives bad values.
+C031,negative,negative,1,The smell is harmful and makes people cough.
+C032,negative,negative,1,The area is worse after the factory started operating.
+C033,negative,negative,1,The alert system is broken and slow.
+C034,negative,negative,1,The dust is dirty and the road is unsafe.
+C035,negative,negative,1,The staff were not helpful when I called.
+C036,negative,negative,1,The pollution level is high and the response is poor.
+C037,neutral,neutral,1,Please inspect the reading from station 4.
+C038,neutral,neutral,1,What time is the monitoring report updated?
+C039,neutral,neutral,1,I live near the Adyar station.
+C040,neutral,neutral,1,The reading was recorded at 8 AM.
+C041,neutral,neutral,1,Please send the monthly report by email.
+C042,neutral,neutral,1,The complaint number is 1042.
+C043,neutral,neutral,1,A truck passed the monitoring station.
+C044,neutral,neutral,1,The sensor was checked on Monday.
+C045,neutral,neutral,1,Can you explain the PM2.5 value?
+C046,neutral,neutral,1,The station is located beside the market.
+C047,neutral,neutral,1,We submitted a complaint yesterday.
+C048,neutral,neutral,1,The report includes temperature and humidity.
+C049,neutral,neutral,1,The reading changed from morning to evening.
+C050,neutral,neutral,1,Please confirm the date of the inspection.
+C051,neutral,neutral,1,I have attached a photograph of the road.
