@@ -1,3 +1,0 @@
-Broken log after three days:
-'Book DBook E'
-TypeError | file closed? False

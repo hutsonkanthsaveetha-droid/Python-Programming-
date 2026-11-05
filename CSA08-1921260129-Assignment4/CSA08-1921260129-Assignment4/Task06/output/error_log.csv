@@ -1,4 +1,0 @@
-file_name,line_number,reason,raw_line
-ECE.csv,3,invalid e-mail 'ravi.example.com',"1921260131,Ravi ECE,ECE,ravi.example.com,Music"
-MECH.csv,3,"expected 5 fields, found 4","1921260136,Invalid Line,MECH,invalid@example.com"
-CIVIL.csv,0,missing department file: [Errno 2] No such file or directory: '/mnt/data/CSA08-1921260129-Assignment4/Task06/input/departments/CIVIL.csv',

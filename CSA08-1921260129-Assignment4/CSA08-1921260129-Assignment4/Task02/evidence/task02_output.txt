@@ -1,4 +1,0 @@
-Students: 4 | damaged lines: 1
-/mnt/data/CSA08-1921260129-Assignment4/Task02/output/attendance_summary.csv
-/mnt/data/CSA08-1921260129-Assignment4/Task02/output/below_75_percent.csv
-/mnt/data/CSA08-1921260129-Assignment4/Task02/output/damaged_lines.csv

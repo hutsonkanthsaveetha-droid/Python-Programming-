@@ -1,3 +1,0 @@
-line_number,raw_line,reason
-4,"192311004,Arun,not-a-number",[<class 'decimal.ConversionSyntax'>]
-5,"192311005,Kavi,600.25,extra","expected 3 fields, found 4"
